@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/drawable-v24/borda_text.xml" value="0.24375" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/drawable/bordas_lateral.xml" value="0.24375" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout-v21/activity_add_jogador.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout-v21/activity_main.xml" value="0.1234375" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout-v21/activity_new_game.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout-v21/new_game.xml" value="0.2" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/activity_add_jogador.xml" value="0.2" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/activity_load_game.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/activity_main_liga.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/activity_membros.xml" value="0.2" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/activity_new_game.xml" value="0.1" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/list_players.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/new_game.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/new_game2.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/newgame_list.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/wbdom/AndroidStudioProjects/OnePlayer/app/src/main/res/layout/ranking_list.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer/app/src/main/res/layout-v21/activity_add_jogador.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer/app/src/main/res/layout-v21/activity_load_game.xml" value="0.4" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer/app/src/main/res/layout-v21/new_game.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer/app/src/main/res/layout/activity_add_jogador.xml" value="0.1" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer/app/src/main/res/layout/activity_load_game.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer/app/src/main/res/layout/new_game.xml" value="0.15172101449275363" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout-v21/activity_add_jogador.xml" value="0.10065590312815338" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout-v21/activity_load_game.xml" value="0.4" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout-v21/activity_main.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout-v21/new_game.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_add_jogador.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_list_jogos.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_load_game.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_membros.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_ranking.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/activity_view_game.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/new_game.xml" value="0.16" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer1/app/src/main/res/layout/ranking_list.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout-v21/activity_load_game.xml" value="0.15625" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout-v21/activity_main.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout-v21/new_game.xml" value="0.15625" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout/activity_load_game.xml" value="0.15625" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout/activity_load_game5x5.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout/activity_main.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer2/app/src/main/res/layout/activity_view_game5x5.xml" value="0.15625" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer3/app/src/main/res/layout-v21/activity_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer3/app/src/main/res/layout/activity_load_game5x5.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer3/app/src/main/res/layout/activity_main.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer3/app/src/main/res/layout/activity_view_game5x5.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout-v21/new_game.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout/activity_list_jogos.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout/activity_load_game.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout/activity_load_game5x5.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout/activity_membros.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout/activity_substituto_view.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer4/app/src/main/res/layout/activity_view_game5x5.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer5/app/src/main/res/layout-v21/activity_add_jogador.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer5/app/src/main/res/layout/activity_add_jogador.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer5/app/src/main/res/layout/activity_list_jogos.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer5/app/src/main/res/layout/activity_ranking.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer5/app/src/main/res/layout/activity_substituto_view.xml" value="0.264" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer5/app/src/main/res/layout/activity_view_game5x5.xml" value="0.2234375" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer6/app/src/main/res/layout-v21/activity_main.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer6/app/src/main/res/layout/activity_list_jogos.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/wbdom/Desktop/OnePlayer6/app/src/main/res/layout/activity_membros.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/borda_text"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <TextView
+            android:id="@+id/tV_jogador"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_jgs"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/jgs"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_vit"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/v"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_FG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/fg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_clt"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/clt"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_TP"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/tp"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_2Pts"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/_2pts"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_3Pts"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/_3pts"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_Reb"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/reb"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_Ast"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/ast"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_Blk"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/blk"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_TPG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/tpg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_2PG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/_2pg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tV_3PG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/_3pg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/tV_RPG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/rpg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/tV_APG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/apg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/tV_BPG"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/borda_text"
+            android:gravity="center"
+            android:text="@string/bpg"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

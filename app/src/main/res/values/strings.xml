@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">One Player</string>
+    <string name="entre_com_apelido">Entre com apelido</string>
+    <string name="time_a">Time A</string>
+    <string name="time_b">Time B</string>
+    <string name="jogadores">Jogadores</string>
+    <string name="start_game">Start Game</string>
+    <string name="_5x5">5x5</string>
+    <string name="nome">Nome</string>
+    <string name="novo_jogo">Novo Jogo</string>
+    <string name="_3x3">3x3</string>
+    <string name="_0">0</string>
+    <string name="_3pts">3Pts</string>
+    <string name="reb">Reb</string>
+    <string name="jogador">Jogador</string>
+    <string name="placar">Placar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="n_mero">Número:</string>
+    <string name="adicionar_jogador">Adicionar Jogador</string>
+    <string name="jogos">Jogos</string>
+    <string name="vitorias">Vit</string>
+    <string name="fg">FG%</string>
+    <string name="cluth">Cluth</string>
+    <string name="clt">Clt</string>
+    <string name="tp">TP</string>
+    <string name="_2pts">2Pts</string>
+    <string name="ast">Ast</string>
+    <string name="blk">Blk</string>
+    <string name="tpg">TPG</string>
+    <string name="_2pg">2PG</string>
+    <string name="_3pg">3PG</string>
+    <string name="rpg">RPG</string>
+    <string name="apg">APG</string>
+    <string name="bpg">BPG</string>
+    <string name="jgs">Jgs</string>
+    <string name="v">V</string>
+    <string name="_3ppg">3PPG</string>
+    <string name="substituir">Substituir:</string>
+    <string name="total">Total</string>
+
+</resources>
